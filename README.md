@@ -18,10 +18,10 @@
 - 일자별 매출 현황 - 박민희
 
 ### 역할
-- PM(Project Manager) - 우지영
-- TL(Technology Leader) - 박민희
-- AC(Agile Coach) - 김민성
-- 발표자,형상 관리 담당자 - 정수민
+- PM(Project Manager) : 우지영
+- TL(Technology Leader) : 박민희
+- AC(Agile Coach) : 김민성
+- 발표자,형상 관리 담당자 : 정수민
 
 ### 제약조건
 1. 모바일에서는 사용불가. 오직 윈도우 웹에서만 작동 가능하다.
