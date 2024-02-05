@@ -10,6 +10,9 @@
 					     |___/                                      
 					     
 ```
+![DALLE2024-02-0517 53 14-AsimpleyetappetizinglogoforacupnoodleshopnamedRamenSyndrome Thelogoshouldvisuallyconveythedeliciousnessoframeninaminimalist-ezgif com-webp-to-png-converter](https://github.com/beyond-sw-camp/be01_3nd_3team/assets/149050285/8515b07e-c5f4-4793-a62e-5df7aa3622ce)
+
+
 
 ### 요구사항
 - 상품별 매출내역 - 김민성
