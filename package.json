@@ -1,0 +1,26 @@
+{
+  "name": "be01_3nd_3team.git",
+  "version": "0.1.0",
+  "description": "3team git",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beyond-sw-camp/be01_3nd_3team.git"
+  },
+  "keywords": [
+    "teamproject",
+    "3team",
+    "sales",
+    "qkralsgml78",
+    "be01_3nd_3team.git"
+  ],
+  "author": "qkralsgml78",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/beyond-sw-camp/be01_3nd_3team/issues"
+  },
+  "homepage": "https://github.com/beyond-sw-camp/be01_3nd_3team#readme"
+}
