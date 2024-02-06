@@ -26,7 +26,7 @@
 - AC(Agile Coach) : 김민성
 - 발표자,형상 관리 담당자 : 정수민
 
-### - Repositories
+### Repositories
 - [R1-Json-Server](https://github.com/Ramen-Syndrome/Ramen-Syndrome_jsonServer)
 - [R2-Express](https://github.com/Ramen-Syndrome/Ramen-Syndrome_express)
 - [R3-NPM](https://github.com/Ramen-Syndrome/Ramen-Syndrome_npm)
