@@ -41,6 +41,6 @@
 4. 2024년부터 영업을 시작했습니다.
 
 ### 배포
-Json Server: https://ramen-syndrome-jsonserver.fly.dev/
-영업관리시스템: https://ramen-syndrome-91acc.web.app/
+- Json Server: https://ramen-syndrome-jsonserver.fly.dev/
+- 영업관리시스템: https://ramen-syndrome-91acc.web.app/
 
