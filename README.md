@@ -13,8 +13,7 @@
 ![DALLE2024-02-0517 53 14-AsimpleyetappetizinglogoforacupnoodleshopnamedRamenSyndrome Thelogoshouldvisuallyconveythedeliciousnessoframeninaminimalist-ezgif com-webp-to-png-converter](https://github.com/beyond-sw-camp/be01_3nd_3team/assets/149050285/8515b07e-c5f4-4793-a62e-5df7aa3622ce)
 
 
-### 주제 
-- 무인 컵라면 매장 영업 관리 시스템
+## 무인 컵라면 매장 영업 관리 시스템
 
 ### 역할
 - PM(Project Manager) : 우지영
